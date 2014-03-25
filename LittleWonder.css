@@ -14,10 +14,8 @@ body {}
 }
 .address {}
 .highlight {
-  font-size: 120%;
-  font-weight: normal;
-  /*padding: 0 3px;*/
-  color: #e28964;
+  color: white;
+  font-weight: bold;
 }
 
 .line {padding-bottom: 1px; clear: left; line-height: 1.3em; border-bottom:1px solid #3d3d3d;}
@@ -53,7 +51,7 @@ body.normal .line.text {
 }
 
 body.normal .line.text[highlight=true] {
-  background: #666;
+  background: #555;
 }
 
 body.normal .message {
