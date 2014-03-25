@@ -6,7 +6,7 @@ html {
 }
 body {}
 
-.url { color: #fc0; }
+.url { color: #DFC24F; }
 
 .message[type=join] .url,
 .message[type=quit] .url {
@@ -20,7 +20,7 @@ body {}
   color: #e28964;
 }
 
-.line {padding-bottom: 1px; clear: left; line-height: 1.3em; border-bottom:1px solid #333;}
+.line {padding-bottom: 1px; clear: left; line-height: 1.3em; border-bottom:1px solid #3d3d3d;}
 .line[alternate=even] {}
 .line[alternate=odd] {}
 .line[highlight=true] {background: #333;}
@@ -53,7 +53,11 @@ body.normal .sender, body.normal .place {
 }*/
 
 body.normal .line.text {
-	background-color: #2a2a2a;
+	background-color: #333;
+}
+
+body.normal .line.text[highlight=true] {
+  background: #666;
 }
 
 body.normal .message {
@@ -108,7 +112,7 @@ body.normal .message {
   text-align: right;
   /*font-size: 11px;*/
 }
-.message[type=reply] { color: #98c0c8; }
+.message[type=reply] { color: #aaa; }
 
 .message[type=error], .message[type=error_reply] { color: #f67b37; }
 .message[type=dcc_send_send] { color: #c5af75; }

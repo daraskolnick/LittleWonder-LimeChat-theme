@@ -5,10 +5,11 @@ log-view:
   nickname-format: '%n: '
   scroller-highlight-color: '#e28964'
 input-text:
-  font-family: 'Monaco'
-  font-size: 14.0
-  background-color: '#2a2a2a'
-  color: '#83d7dd'
+  font-family: 'Lucida Grande'
+  font-size: 13.0
+  font-weight: 'bold'
+  background-color: '#333'
+  color: '#fafafa'
   selected:
     background-color: '#666'
 member-list:
