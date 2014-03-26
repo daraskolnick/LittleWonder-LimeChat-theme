@@ -1,14 +1,14 @@
 #LimeChat theme: Little Wonder
 
-I've just started using IRC, and LimeChat's pretty cool, but I didn't find a theme that I actually liked.
+I've just started using IRC, and LimeChat's a great client, but I didn't find a theme that I actually liked. That made me sad.
 
-So, I made one. And now you can use it too!
+So, I made my own, and now you can use it too!
 
 ##Screenshot
 
-![](http://cl.ly/image/3T0o3o0L3z0g/Screen%20Shot%202014-03-25%20at%204.21.19%20PM.png)
+![](http://cl.ly/image/1l1H2a093C3o/screenshot.png)
 
-##Installing
+##How to install
 
 1. Download the files. Always a good place to start.
 2. Copy/symlink the .yaml and .css file into your Themes directory (located in ~/Library/Application Support/LimeChat/Themes)
@@ -17,4 +17,4 @@ So, I made one. And now you can use it too!
 
 ##Why Little Wonder?
 
-[Because David Bowie is awesome.](http://www.youtube.com/watch?v=_9gc7AWzMoY)
+[Because '90s David Bowie is awesome.](http://www.youtube.com/watch?v=_9gc7AWzMoY)
