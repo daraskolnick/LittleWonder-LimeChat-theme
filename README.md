@@ -17,4 +17,4 @@ So, I made my own, and now you can use it too!
 
 ##Why Little Wonder?
 
-[Because '90s David Bowie is awesome.](http://www.youtube.com/watch?v=_9gc7AWzMoY)
+[Because '90s David Bowie is awesome.](http://www.youtube.com/watch?v=LnrIAIRuTLs)
